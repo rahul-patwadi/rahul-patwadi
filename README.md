@@ -25,10 +25,10 @@ Software engineer transitioning from 3 years at Dell Technologies to an MS in En
 
 ## 🛠️ Skills
 
-**Languages:** Python, C#, TypeScript/JavaScript, SQL
-**AI/Agentic:** LangGraph, Llama 3.3, RAG, Gemini API, ChromaDB, multi-agent orchestration, prompt engineering
+**Languages:** Python, C#, TypeScript, SQL
+**AI/Agentic:** LangGraph, RAG, Gemini API, ChromaDB, multi-agent orchestration, prompt engineering
 **Backend/Frontend:** FastAPI, Pydantic, ASP.NET Web API, Angular
-**Data/Infra:** PostgreSQL, Kafka, Control-M, Docker, Kubernetes, Helm, GitLab CI/CD, SonarQube, Tenable
+**Data/Infra:** PostgreSQL, Control-M, Docker, Kubernetes, GitLab CI/CD, SonarQube
 
 ## 🎓 Education
 
