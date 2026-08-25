@@ -1,4 +1,4 @@
-# Hi, I'm Rahul 👋
+# Hey, I'm Rahul
 
 Software engineer transitioning from 3 years at Dell Technologies to an MS in Engineering at San José State University (Fall 2026). I build agentic AI systems and backend infrastructure meant to run in production — not just in a notebook.
 
@@ -8,7 +8,7 @@ Software engineer transitioning from 3 years at Dell Technologies to an MS in En
 - Async NTRS document harvester — pagination, 429 backoff, ITAR/EAR filtering, dedup — ingested 539/545 records into 87K+ chunks
 - Retrieval evaluated on a hand-labeled harness: precision@5 = 0.70 after truncating embeddings 3072→768, shrinking the vector store 1.5GB → 742MB with no quality loss
 - Python/FastAPI backend, Angular frontend, Gemini embeddings + generation
-- Engineering discipline: uv, ruff, mypy --strict, pytest
+- Live demo: https://nasa-mission-frontend-76299851234.us-central1.run.app
 
 ## 💼 Experience
 
