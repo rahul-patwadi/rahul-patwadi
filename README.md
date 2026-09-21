@@ -1,6 +1,6 @@
 # Hey, I'm Rahul
 
-Software engineer transitioning from 3 years at Dell Technologies to an MS in Engineering at San José State University (Fall 2026). I build agentic AI systems and backend infrastructure meant to run in production — not just in a notebook.
+Software engineer transitioning from 3+ years at Dell Technologies to an MS in Engineering specializing in AI Systems Engineering at San José State University (Fall 2026). I build agentic AI systems and backend infrastructure meant to run in production.
 
 ## 🚀 Featured project
 
@@ -26,7 +26,7 @@ Software engineer transitioning from 3 years at Dell Technologies to an MS in En
 ## 🛠️ Skills
 
 **Languages:** Python, C#, TypeScript, SQL
-**AI/Agentic:** LangGraph, RAG, Gemini API, ChromaDB, multi-agent orchestration, prompt engineering
+**AI/Agentic:** LangGraph, RAG, Gemini API, ChromaDB, multi-agent orchestration, prompt engineering, Pytorch, Computer Vision
 **Backend/Frontend:** FastAPI, Pydantic, ASP.NET Web API, Angular
 **Data/Infra:** PostgreSQL, Control-M, Docker, Kubernetes, GitLab CI/CD, SonarQube
 
