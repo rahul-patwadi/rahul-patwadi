@@ -18,7 +18,7 @@ MS in Engineering (Software / AI Systems) @ San José State University · Ex-Del
 
 **[NASA Mission Intelligence](https://github.com/rahul-patwadi/nasa-mission-intelligence)** — End-to-end RAG system over NASA's mission archive (Python, FastAPI, ChromaDB, Gemini). Ingested 539 of 545 records into 86K+ indexed chunks; improved retrieval precision@5 from 0.67 → 0.70 via embedding optimization. Deployed live on GCP. [→ Live Demo](https://nasa-mission-frontend-76299851234.us-central1.run.app)
 
-**Autonomous Network Operations Incident Coordination** — Decision core of a multi-agent incident-response system using an Expected Value model (Python, FastAPI). 85% decision accuracy on a hand-labeled eval set.
+**Autonomous Network Operations Incident Coordination** — Multi-agent runtime that decides whether and how to act on network incidents using a hand-written Expected Value model — deterministic decision core, LLM remediation only for hard cases, human-gated before anything runs. Python · LangGraph · FastAPI.
 
 ---
 
